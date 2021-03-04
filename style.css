@@ -1,0 +1,32 @@
+header {
+    padding: 3em;
+    background: #272727;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-align: left;
+}
+
+a {
+    padding: 0.5em;
+    text-decoration: none;
+    background: #ffffff;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+body {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #272727;
+    font-size: 4em;
+    text-align: center;
+}
+
+button {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
